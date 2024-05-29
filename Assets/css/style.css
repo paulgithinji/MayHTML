@@ -1,0 +1,42 @@
+.fruits{
+border: 2px solid darkred;
+    text-align: center;
+    padding: 20px;
+    margin: 15px;
+    color: blue;
+    background-color: coral;
+}
+.Fruits{
+    border: 2px solid darkblue;
+    text-align: center;
+    margin: 15px;
+    color: darkred;
+    background-color: aquamarine;
+}
+.cars{
+border: 2px solid darkblue;
+    text-align: center;
+    margin: 15px;
+    color: darkred;
+    background-color: aquamarine;
+}
+#school{
+    border: 2px solid darkblue;
+    text-align: center;
+    margin: 15px;
+    color: white;
+    background-color: red;
+}
+.myforms{
+    border-style: hidden;
+    text-align: center;
+    color: black;
+    background-color: cornflowerblue;
+    padding: 30px;
+    font-family: "Noto Serif";
+    font-size: small;
+    border-collapse: collapse;
+    text-wrap: normal;
+    width: fit-content;
+    margin-left: 525px;
+}
